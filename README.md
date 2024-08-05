@@ -29,3 +29,9 @@ The folders are structured as follows:
 1. Setup environment (90min): set up vscode devcontainer with hardware acceleration, download data files in postCreateCommand script
 2. Data preprocessing (90min): Read in data, plot image resolution and number of images for each category.  
 3. Initial training tries (180min): Build a model with a fixed train/validation split and try combinations of hyperparameters 
+4. Cross validation (180min): So far
+
+## Open questions
+
+- How to optimally save training results. I needed to retrain a lot and especcially with cross validation, it is very time consuming.
+- 
