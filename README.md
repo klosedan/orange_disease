@@ -4,7 +4,7 @@ The project can be run inside a devcontainer which is baded on Python 3.11 and i
 
 ## Environment
 
-The recommended way is to start this workspace in a vscode devcontainer.
+The recommended way is to start this workspace in a vscode devcontainer. The intial build of the container takes up a few minutes. 
 
 ## Procedure
 
