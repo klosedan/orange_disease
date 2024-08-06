@@ -36,7 +36,7 @@ The folders are structured as follows:
 3. Initial training tries (180min): Build a model with a fixed train/validation split and try combinations of hyperparameters 
 4. Cross validation (180min): I struggled some time to efficiently store training results in order to not run it again for every code change. 
 5. Model compression (30min): I applied pruning to the model.  
-6. Captum (60min): I used the libary to get some insights into the decision making.
+6. Captum (30min): I used the libary to get some insights into the decision making.
 
 ## Open questions
 
