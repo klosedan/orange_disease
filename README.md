@@ -2,9 +2,11 @@
 
 The project can be run inside a devcontainer which is baded on Python 3.11 and is allowed to run with GPU acceleration.
 
-## Environment
+## Development environment
 
-The recommended way is to start this workspace in a vscode devcontainer. The intial build of the container takes a few minutes. 
+The recommended way is to start this workspace in a vscode devcontainer. The intial build of the container takes a few minutes. In this case, all dependencies and useful vscode extensions will be installed. Moreover, you GPU will be forwarded to the container and the data will be downloaded from kaggle.
+
+Alternatively, you can install dependencies using pip with the requirements.txt and download the data into the folder ./data. Moreover, you need to create the folder ./model. 
 
 ## Procedure
 
